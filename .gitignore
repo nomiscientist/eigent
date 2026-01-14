@@ -34,10 +34,6 @@ yarn.lock
 /playwright-report/
 /playwright/.cache/
 
-.env
-.env.local
-.env.production
-.env.development
 
 .cursor
 
@@ -54,3 +50,4 @@ __pycache__/
 *$py.class
 *.so
 .Python
+config.bat
